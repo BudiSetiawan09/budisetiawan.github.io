@@ -49,7 +49,7 @@ IT Professional with infrastructure experience in Azure, networking, and securit
 ## Contact
 
 - Email: budicookislands@gmail.com
-- LinkedIn: Budi Setiawan
+- LinkedIn: www.linkedin.com/in/budi-setiawan-cookislands
 - Location: Cook Islands (open to NZ relocation)
 
 *Last updated: February 2026*
