@@ -42,9 +42,13 @@ IT Professional with infrastructure experience in Azure, networking, and securit
 
 ## Portfolio Projects
 
-*Coming soon - documenting real-world deployments*
+View my [documented infrastructure projects](projects.md) including:
+- M365 cloud migrations with Azure AD integration
+- Enterprise security system deployments
+- Critical network recovery and high-availability implementations
 
----
+[→ See all projects](projects.md)
+```
 
 ## Contact
 
